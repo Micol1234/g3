@@ -1,0 +1,23 @@
+.centrale{
+    text-align: center;
+}
+.margine{
+   margin: 25rem;
+}
+.titolo1{
+    text-align: center;}
+.rosso{
+    color: red;
+    text-transform: uppercase;
+}
+h3.blue{
+    color: blue;
+}
+.maiuscolo{
+    text-transform: uppercase;
+
+}
+.centrato2{ text-align: center;}
+
+.linea{
+line-gap-override: 10;
